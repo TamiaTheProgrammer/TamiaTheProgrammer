@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamiaTheProgrammer and I am majoring in Computer science at Stevens Institute Of Technology! I am currently on my third year.
 - 👀 I’m interested in Cybersecurity and Software Development as a future career. I love subjects such as Java, Python, and Data Structures.
 - In the future, I am hoping to become better at Operating systems! And learn more languages!
-- 🌱 I’m currently learning Java, C#, C++, and Python! Outside of school, I am learning Windows and Linux operating systems.
+- 🌱 I’m currently learning Java, Assembly, C++, and Python! Outside of school, I am learning Windows and Linux operating systems.
 - I am learning various Security Tools as well in hopes of strengthening my Cybersecurity skills to be able to use it with my coding knowledge.
 - 💞️ I’m looking to collaborate on any beginner friendly programs that can help me strengthen and hone my coding skills. But I do love a challange!
 - 📫 How to reach me: You can send me a message through here! I can also provide an email you can contact me through as well apon request.
