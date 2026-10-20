@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @TamiaTheProgrammer and I am majoring in Computer science at Stevens Institute Of Technology! I am currently on my third year.
-- 👀 I’m interested in Cybersecurity and Software Development as a future career. I love subjects such as Java, Python, and Data Structures.
-- In the future, I am hoping to become better at Operating systems! And learn more languages!
-- 🌱 I’m currently learning Java, Assembly, C++, and Python! Outside of school, I am learning Windows and Linux operating systems.
-- I am learning various Security Tools as well in hopes of strengthening my Cybersecurity skills to be able to use it with my coding knowledge.
-- 💞️ I’m looking to collaborate on any beginner friendly programs that can help me strengthen and hone my coding skills. But I do love a challange!
-- 📫 How to reach me: You can send me a message through here! I can also provide an email you can contact me through as well apon request.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm pretty sure for every 1 hour of my time I spend coding, I spend 2 more making sure its well organized (Im looking at you untabbed for loop and non_underlinded function!)
+Hi, I'm Tamia 👋
+
+Computer Science senior at Stevens Institute of Technology (graduating May 2027) and a locomotive engineer with the Port Authority of New York & New Jersey since 2021.
+
+Years of running trains in a safety-critical environment taught me to value precise procedures, careful testing, and systems that behave predictably. I bring that same mindset to software.
+
+👀 Interested in: Software development and Software Engineering.
+🌱 Currently strengthening: Linux, Python, and non stop LeetCodeing
+💞️ Open to: collaborating on projects, internships, and new-grad roles. I love a challenge!
+😄 Pronouns: she/her
+⚡ Fun fact: for every hour I spend coding, I spend two more making sure it's well organized (I'm looking at you, unindented for loop and non_underscored function)
+
+🛠️ What I work with:
+Languages: C · C++ · C# · Java · Python · JavaScript · Assembly Tools & platforms: Linux · Windows · Node.js · MongoDB · Unity · Git/GitHub · Visual Studio
+
+📌 Featured projects
+Unix Minishell: A Unix shell with built-in commands, process creation via fork/execvp, SIGINT handling, and process listing through/proc (C, Linux)
+
+The Social Experiment Project: A team-built platform for discovering creator-friendly NYC locations, with search, filtering, and custom ratings (JavaScript, Node.js, MongoDB)
+
+Are we there yet?: An object-oriented Unity game built with class inheritance and component-based architecture	(C#, Unity)
+
+📫 Get in touch
+
+wellingtontamia@gmail.com · LinkedIn
