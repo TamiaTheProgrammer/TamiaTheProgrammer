@@ -22,4 +22,4 @@ Are we there yet?: An object-oriented Unity game built with class inheritance an
 
 📫 Get in touch
 
-wellingtontamia@gmail.com · LinkedIn
+wellingtontamia@gmail.com · https://www.linkedin.com/in/tamia-wellington-69a743292/ 
